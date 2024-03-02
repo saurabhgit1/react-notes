@@ -11,3 +11,8 @@
 5. vite or parcel ---> light weight ---> these are bundler
 6. npm create vite@latest
 7. JSX - Javascript XML
+
+# Third Video
+1. React creates it own DOM as well other than the Browser's DOM.
+2. Name of component's (function name and file) should start with capital letter.
+3. Fragments - (<></>) - as we can return only 1 element from a function of component.
