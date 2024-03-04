@@ -13,6 +13,9 @@
 7. JSX - Javascript XML
 
 # Third Video
-1. React creates it own DOM as well other than the Browser's DOM.
+1. React creates its own DOM as well other than the Browser's DOM.
 2. Name of component's (function name and file) should start with capital letter.
 3. Fragments - (<></>) - as we can return only 1 element from a function of component.
+4. APP created by vite has script tag manually added in index.html but for apps created by create-react-app, script tags get added by react-scripts package.
+
+# Fifth Video
